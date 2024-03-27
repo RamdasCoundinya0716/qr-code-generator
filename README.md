@@ -7,7 +7,7 @@ This is a simple command-line tool for generating QR codes from URLs. It uses No
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/qr-code-generator.git
+   git clone https://github.com/RamdasCoundinya0716/qr-code-generator.git
    ```
 
 2. Install dependencies:
